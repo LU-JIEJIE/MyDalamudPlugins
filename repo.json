@@ -1,10 +1,10 @@
 [
   {
     "Author": "Ottermandias",
-    "Name": "GatherBuddy",
+    "Name": "GatherBuddy-CN",
     "Punchline": "简化采集和捕鱼。",
     "Description": "添加命令来简化采集，方法是通过物品名称和用户界面找到节点和鱼类及其位置，以跟踪特殊的时段和天气条件。",
-    "InternalName": "GatherBuddy",
+    "InternalName": "GatherBuddy-CN",
     "AssemblyVersion": "3.2.4.2",
     "DalamudApiLevel": 8,
     "RepoUrl": "https://github.com/LU-JIEJIE/GatherBuddy",
