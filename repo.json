@@ -8,7 +8,7 @@
     "AssemblyVersion": "3.2.4.2",
     "DalamudApiLevel": 8,
     "RepoUrl": "https://github.com/LU-JIEJIE/GatherBuddy",
-    "IconUrl": null,
+    "IconUrl": "https://raw.githubusercontent.com/LU-JIEJIE/GatherBuddy/main/images/icon.png",
     "ApplicableVersion": "any",
     "Tags": [
       "Gathering",
