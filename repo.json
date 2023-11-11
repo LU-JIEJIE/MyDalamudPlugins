@@ -1,0 +1,33 @@
+[
+  {
+    "Author": "Ottermandias",
+    "Name": "GatherBuddy",
+    "Punchline": "简化采集和捕鱼。",
+    "Description": "添加命令来简化采集，方法是通过物品名称和用户界面找到节点和鱼类及其位置，以跟踪特殊的时段和天气条件。",
+    "InternalName": "GatherBuddy",
+    "AssemblyVersion": "3.2.4.2",
+    "DalamudApiLevel": 8,
+    "RepoUrl": "https://github.com/LU-JIEJIE/GatherBuddy",
+    "IconUrl": null,
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Gathering",
+      "Fishing",
+      "Miner",
+      "Botanist",
+      "Weather",
+      "Alarms",
+      "Timer"
+    ],
+    "CategoryTags": [
+      "jobs"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdated": "0",
+    "DownloadCount": "0",
+    "DownloadLinkInstall": "https://github.com/LU-JIEJIE/GatherBuddy/releases/download/v3.2.4.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/LU-JIEJIE/GatherBuddy/releases/download/v3.2.4.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/LU-JIEJIE/GatherBuddy/releases/download/v3.2.4.2/latest.zip"
+  }
+]
